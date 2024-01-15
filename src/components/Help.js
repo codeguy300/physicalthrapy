@@ -12,7 +12,7 @@ const Housing = () => {
           <div class="bg-white  text-2xl">
             <strong>
               <h1 class="text-7xl md:text-5xl sm:text-3xl  text-blue-900 ">
-                APTA CSM Housing {""}Closes Soon
+                APTA CSM Housing {""}Closes Soonnnnn
               </h1>{" "}
             </strong>
             <p class="text-gray-600 font-body font-medium">
